@@ -46,6 +46,18 @@ streamlit run app.py
 
 Then open the local URL shown by Streamlit in your browser.
 
+## Deploy for a permanent public link
+
+`http://localhost:8501/` works only while the app is running on your computer. To publish the chatbot with a permanent public URL:
+
+1. Open [Streamlit Community Cloud](https://share.streamlit.io/).
+2. Sign in with the GitHub account that owns this repository.
+3. Select **Create app** and choose `kashish309/codeALpha_ProjectName-2-`.
+4. Set the branch to `main` and the main file to `app.py`.
+5. Click **Deploy**.
+
+Streamlit will provide a public URL ending in `streamlit.app` and automatically redeploy the app when you push updates to GitHub.
+
 ## Example questions
 
 - How can I identify a real gemstone?
