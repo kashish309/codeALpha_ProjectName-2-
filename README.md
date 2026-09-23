@@ -1,7 +1,7 @@
 # 💎 Real Gemstones FAQ Chatbot
 
 A beginner-friendly Streamlit chatbot that answers common questions about real gemstones. It uses a local FAQ dataset—there is no database, external AI API, or OpenAI API.
-open to view (http://localhost:8501/)
+open to view streamlit(https://rkcvpkrd6g7g7qsht52vmi.streamlit.app/)
 
 ## Features
 
